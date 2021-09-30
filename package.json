@@ -1,0 +1,21 @@
+{
+    "name": "full-frontal",
+    "displayName": "Full Frontal",
+    "description": "An elegant customized dark theme for vsCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Full-Frontal (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Full-Frontal (Dark)-color-theme.json"
+            }
+        ]
+    }
+}
